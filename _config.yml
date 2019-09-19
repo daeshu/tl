@@ -1,8 +1,8 @@
 # Site settings
 title:          Daniel
 description:    "Personal"
-baseurl:        "/tl"
-url:            "https://daeshu.github.io"
+baseurl:        "https://daeshu.github.io/"
+url:            "/tl"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
