@@ -1,6 +1,6 @@
 # Site settings
 title:          Daniel
-description:    "Test"
+description:    "Personal site test"
 baseurl:        "/tl"
 url:            "https://daeshu.github.io/tl"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Daniel Escobar
+  url:          https://escobar.eu.org
+  email:        daniel@escobar.eu.org
 
 # Build settings
 markdown:       kramdown
